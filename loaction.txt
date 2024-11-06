@@ -1,0 +1,35 @@
+USC
+https://livingatlas.arcgis.com/wayback/#active=56102&mapCenter=-118.28042%2C34.02075%2C15
+
+LV1 (Las Vegas)
+https://livingatlas.arcgis.com/wayback/#active=37965&mapCenter=-115.29850%2C36.06400%2C14
+
+LV2 (Las Vegas)
+https://livingatlas.arcgis.com/wayback/#active=56102&mapCenter=-114.96065%2C36.05273%2C15
+
+UCLA
+https://livingatlas.arcgis.com/wayback/#active=37965&mapCenter=-118.33681%2C34.08500%2C15
+
+Santa Barbara
+https://livingatlas.arcgis.com/wayback/#active=37965&mapCenter=-119.87436%2C34.43297%2C15
+
+Solvang
+https://livingatlas.arcgis.com/wayback/#active=37965&mapCenter=-120.13533%2C34.59710%2C15
+
+Salt Lake City Outskirts
+https://livingatlas.arcgis.com/wayback/#active=37965&mapCenter=-112.03923%2C41.31935%2C15
+
+Seattle
+https://livingatlas.arcgis.com/wayback/#active=27659&mapCenter=-122.40288%2C47.07092%2C15
+
+Minneapolis
+https://livingatlas.arcgis.com/wayback/#active=23448&mapCenter=-92.94973%2C44.81399%2C15
+
+Georgetown
+https://livingatlas.arcgis.com/wayback/#active=10&mapCenter=-97.75741%2C30.59925%2C15
+
+Leander
+https://livingatlas.arcgis.com/wayback/#active=16681&mapCenter=-97.86594%2C30.52695%2C15
+
+Buckeye
+https://livingatlas.arcgis.com/wayback/#active=645&mapCenter=-112.58552%2C33.37861%2C15

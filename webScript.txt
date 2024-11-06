@@ -1,0 +1,37 @@
+// Select the div elements with class 'py-1'
+var py1Divs = document.querySelectorAll('div.py-1');
+
+// Initialize a variable to store the output
+var output = '';
+
+// Iterate over each div with class 'py-1'
+py1Divs.forEach(function(div) {
+    // Find the <a> element within the current div
+    var aElement = div.querySelector('a.margin-left-half');
+    
+    // If <a> element is found, extract the date
+    var date = "";
+    if (aElement) {
+        date = aElement.textContent.trim();
+    }
+    
+    // Get the data-release-num attribute value
+    var releaseNum = div.getAttribute('data-release-num');
+    
+    // Append date and data-release-num to the output string
+    output += date + ' ' + releaseNum + '\n';
+});
+
+// Create a Blob with the output text
+var blob = new Blob([output], {type: 'text/plain'});
+
+// Create a temporary link element
+var link = document.createElement('a');
+link.download = 'data.txt';
+
+// Create a URL for the Blob and set it as the href of the link
+link.href = window.URL.createObjectURL(blob);
+
+// Click the link to trigger the download
+link.click();
+
